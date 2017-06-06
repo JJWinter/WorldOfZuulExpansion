@@ -1,0 +1,25 @@
+Welcome to the World of Zuul!
+In the distance, you see a menacing castle
+Go to Menu->Help if you need help.
+You are in the castle outskirts.
+Exits: east (Unknown) south (Unknown) north (Unknown)
+
+---Press: Go south
+You are In the village center. It seems deserted.
+Exits: east (Unknown) south (Unknown) north (Castle Outskirts) west (Unknown)
+
+---Press: Go east
+You are In the village tailors.
+Exits: west (Village)
+
+---Press: Go west
+You are In the village center. It seems deserted.
+Exits: east (Village Tailor) south (Unknown) north (Castle Outskirts) west (Unknown)
+
+---Press: Go west
+You are In the village forge.
+Exits: east (Village)
+
+---Press: Search Area 
+You find these items: Dagger 
+

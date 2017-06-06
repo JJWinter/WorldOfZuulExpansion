@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EnemyTest()
+comment0.text=\r\n\ Default\ constructor\ for\ test\ class\ EnemyTest\r\n
+comment1.params=
+comment1.target=void\ testEnemyWeaknessItem()
+comment1.text=\r\n\ Tests\ an\ Enemy's\ weakness.\r\n
+comment2.params=
+comment2.target=void\ testEnemyGetName()
+comment2.text=\r\n\ Tests\ an\ Enemy's\ name.\r\n
+numComments=3

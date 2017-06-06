@@ -1,0 +1,140 @@
+Welcome to the World of Zuul!
+In the distance, you see a menacing castle
+Go to Menu->Help if you need help.
+You are in the castle outskirts.
+Exits: east (Unknown) south (Unknown) north (Unknown)
+
+---Press: Go south
+You are In the village center. It seems deserted.
+Exits: east (Unknown) south (Unknown) north (Castle Outskirts) west (Unknown)
+
+---Press: Go east
+You are In the village tailors.
+Exits: west (Village)
+
+---Press: Search Area 
+You find these items: Heavy-Boots 
+
+---Press: Take Item: Heavy-Boots
+You picked up the Heavy-Boots
+You are In the village tailors.
+Exits: west (Village)
+
+---Press: Go west
+You are In the village center. It seems deserted.
+Exits: east (Village Tailor) south (Unknown) north (Castle Outskirts) west (Unknown)
+
+---Press: Go west
+You are In the village forge.
+Exits: east (Village)
+
+---Press: Take Item: Dagger
+You picked up the Dagger
+You are In the village forge.
+Exits: east (Village)
+
+---Press: Go east
+You are In the village center. It seems deserted.
+Exits: east (Village Tailor) south (Unknown) north (Castle Outskirts) west (Village Forge)
+
+---Press: Go south
+The door appears to be locked...
+There should be a key around somewhere.
+You are In the village center. It seems deserted.
+Exits: east (Village Tailor) south (Village Potion Store) north (Castle Outskirts) west (Village Forge)
+
+---Press: Go north
+You are in the castle outskirts.
+Exits: east (Unknown) south (Village) north (Unknown)
+
+---Press: Go north
+You are at the stables outside the castle.
+Exits: east (Unknown) south (Castle Outskirts) north (Unknown)
+
+---Press: Go east
+You are in the castle gardens.
+Exits: south (Unknown) west (Stables)
+
+---Press: Go south
+You slog through the swamp in your Heavy Boots
+You are in the swamps.
+Exits: north (Gardens) west (Castle Outskirts)
+
+---Press: Go north
+You are in the castle gardens.
+Exits: south (Swamp) west (Stables)
+
+---Press: Go west
+You are at the stables outside the castle.
+Exits: east (Gardens) south (Castle Outskirts) north (Unknown)
+
+---Press: Go north
+You are afront the castle gate.
+Exits: south (Stables) north (Unknown)
+
+---Press: Go north
+You are in the castle courtyard.
+Exits: east (Unknown) south (Gate) north (Unknown) west (Unknown)
+
+---Press: Go west
+You are outside the castle prison cells.
+Exits: east (Courtyard) south (Unknown)
+
+---Press: Go south
+The door appears to be locked...
+There should be a key around somewhere.
+You are outside the castle prison cells.
+Exits: east (Courtyard) south (Dungeons)
+
+---Press: Go north
+There is no door!
+
+---Press: Go east
+You are in the castle courtyard.
+Exits: east (Unknown) south (Gate) north (Unknown) west (Cells)
+
+---Press: Go east
+A hostile Troll stands before you!
+You slay the Troll with your Dagger
+You are in the castle barracks.
+Exits: north (Unknown) west (Courtyard)
+
+---Press: Take Item: Sword
+You picked up the Sword
+You are in the castle barracks.
+Exits: north (Unknown) west (Courtyard)
+
+---Press: Go north
+You are in the servants quarters.
+Exits: south (Barracks) west (Unknown)
+
+---Press: Go west
+This route into the Inner Palace is unlocked
+You open the doorway to the courtyard
+You are inside the Inner Palace.
+Exits: east (Servants Quarters) south (Courtyard) north (Unknown) west (Unknown)
+
+---Press: Go west
+A hostile Giant Spider stands before you!
+You slay the Giant Spider with your Sword
+You are in a storage area.
+Exits: east (Inner Palace) north (Unknown)
+
+---Press: Go north
+You are in a hidden room.
+Exits: south (Storage)
+
+---Press: Go south
+You are in a storage area.
+Exits: east (Inner Palace) north (Secret Room)
+
+---Press: Go east
+You are inside the Inner Palace.
+Exits: east (Servants Quarters) south (Courtyard) north (Unknown) west (Storage)
+
+---Press: Go north
+The door appears to be locked...
+There should be a key around somewhere.
+You are inside the Inner Palace.
+Exits: east (Servants Quarters) south (Courtyard) north (Throne Room) west (Storage)
+

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RoomTest()
+comment0.text=\r\n\ Default\ constructor\ for\ test\ class\ RoomTest\r\n
+comment1.params=
+comment1.target=void\ testRoomItemsNumberNone()
+comment1.text=\r\n\ Tests\ a\ new\ room\ has\ no\ items.\r\n
+comment2.params=
+comment2.target=void\ testRoomItemsNumberOne()
+comment2.text=\r\n\ Tests\ a\ room\ with\ an\ item\ correctly\ contains\ the\ item.\r\n
+comment3.params=
+comment3.target=void\ testRoomVisitedFalse()
+comment3.text=\r\n\ Tests\ a\ new\ room\ has\ not\ been\ visited.\r\n
+comment4.params=
+comment4.target=void\ testRoomVisitedTrue()
+comment4.text=\r\n\ Tests\ a\ room\ is\ set\ to\ visited\ after\ being\ visited.\r\n
+comment5.params=
+comment5.target=void\ testRoomGetName()
+comment5.text=\r\n\ Tests\ a\ new\ room\ returns\ the\ correct\ room\ name.\r\n
+comment6.params=
+comment6.target=void\ testRoomLockedUnlocked()
+comment6.text=\r\n\ Tests\ the\ locking\ and\ unlocking\ of\ a\ room.\r\n
+numComments=7
